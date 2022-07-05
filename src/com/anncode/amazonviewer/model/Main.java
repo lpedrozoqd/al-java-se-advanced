@@ -14,6 +14,18 @@ import com.anncode.amazonviewer.model.Serie;
 import com.anncode.makereport.Report;
 import com.anncode.util.AmazonUtil;
 
+/**
+ * <h1>AmazonViewer</h1>
+ * AmazonViewer es un programa que permite visualizar recuros:
+ * Books, y Magazines. Te permite generar reportes generales y con fecha del día
+ * <p>
+ * Existen alunas reglas asociadas.
+ * 
+ * @author lpedrozo
+ * @version 1.1
+ * @since 2022
+ * 
+ */
 public class Main {
 
 	public static void main(String[] args) {
