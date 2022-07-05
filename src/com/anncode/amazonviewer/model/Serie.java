@@ -1,6 +1,8 @@
 package com.anncode.amazonviewer.model;
 
+
 import java.util.ArrayList;
+import java.util.Date;
 
 public class Serie extends Film {
 	
@@ -59,6 +61,14 @@ public class Serie extends Film {
 		}
 		
 		return series;
+	}
+
+
+
+	@Override
+	public void view() {
+
+		
 	}
 	
 }
